@@ -2,7 +2,7 @@
 using namespace std;
 int main(){
 
-    int n1=5000;
+    int n1=0;
 
     // n1=n1+2; // Or - * / %
     // n1+=2; // Or - * / %
