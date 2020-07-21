@@ -17,5 +17,6 @@ int main(){
         }
         cout << "\n";
     } 
+    cout << coisas;
     return 0;
 }
