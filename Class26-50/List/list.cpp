@@ -29,14 +29,16 @@ int main(){
     alea.push_front(16);
     alea.push_front(48);
     alea.push_front(12);
+    alea.push_front(40000);
 
     alea.sort();
     alea.reverse();
-    
+
     int tam = alea.size();
     for (int i = 0; i < tam; i++ ){
         cout << alea.front() << "\n";
         alea.pop_front();
     }
+
     return 0;
 }
