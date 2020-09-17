@@ -101,6 +101,14 @@ int main(){
             break;
         }
     }
+    cout << "Bye amigo";
+    int i;
+    while (i < 1000000000)
+    {
+        i++;
+    }
+    
+    
     fim:
     return 0;
 }
