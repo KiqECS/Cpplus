@@ -1,3 +1,5 @@
-# LearnCpp
-Neste repositório há todos os codigos que eu aprendi e estou aprendendo em cursos aleátorios da internet.
-Neste caso é C++.
+# Aprendendo C++
+
+Meus códigos com base no curso C++ do CFB do Youtube.
+
+Ref-link: 
